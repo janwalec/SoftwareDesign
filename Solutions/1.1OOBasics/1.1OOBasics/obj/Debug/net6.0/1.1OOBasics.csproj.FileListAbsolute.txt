@@ -1,0 +1,15 @@
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/bin/Debug/net6.0/1.1OOBasics
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/bin/Debug/net6.0/1.1OOBasics.deps.json
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/bin/Debug/net6.0/1.1OOBasics.runtimeconfig.json
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/bin/Debug/net6.0/1.1OOBasics.dll
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/bin/Debug/net6.0/1.1OOBasics.pdb
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/obj/Debug/net6.0/1.1OOBasics.csproj.AssemblyReference.cache
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/obj/Debug/net6.0/1.1OOBasics.GeneratedMSBuildEditorConfig.editorconfig
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/obj/Debug/net6.0/1.1OOBasics.AssemblyInfoInputs.cache
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/obj/Debug/net6.0/1.1OOBasics.AssemblyInfo.cs
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/obj/Debug/net6.0/1.1OOBasics.csproj.CoreCompileInputs.cache
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/obj/Debug/net6.0/1.1OOBasics.dll
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/obj/Debug/net6.0/refint/1.1OOBasics.dll
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/obj/Debug/net6.0/1.1OOBasics.pdb
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/obj/Debug/net6.0/1.1OOBasics.genruntimeconfig.cache
+/home/jas/Documents/codes/SoftwareDesign/Solutions/1.1OOBasics/1.1OOBasics/obj/Debug/net6.0/ref/1.1OOBasics.dll
