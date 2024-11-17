@@ -1,0 +1,15 @@
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/obj/Debug/net8.0/2.SO.GeneratedMSBuildEditorConfig.editorconfig
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/obj/Debug/net8.0/2.SO.AssemblyInfoInputs.cache
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/obj/Debug/net8.0/2.SO.AssemblyInfo.cs
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/obj/Debug/net8.0/2.SO.csproj.CoreCompileInputs.cache
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/obj/Debug/net8.0/2.SO.sourcelink.json
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/bin/Debug/net8.0/2.SO
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/bin/Debug/net8.0/2.SO.deps.json
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/bin/Debug/net8.0/2.SO.runtimeconfig.json
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/bin/Debug/net8.0/2.SO.dll
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/bin/Debug/net8.0/2.SO.pdb
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/obj/Debug/net8.0/2.SO.dll
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/obj/Debug/net8.0/refint/2.SO.dll
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/obj/Debug/net8.0/2.SO.pdb
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/obj/Debug/net8.0/2.SO.genruntimeconfig.cache
+/home/jas/Documents/codes/SoftwareDesign/Solutions/2.SO/2.SO/obj/Debug/net8.0/ref/2.SO.dll
