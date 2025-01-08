@@ -1,6 +1,6 @@
 
 
-a.out: arraygen.o bubble.o main.o isort.o shell.o
+a.out: arraygen.o bubble.o main.o isort.o shell.o fullrandom.o nearlysorted.o
 	g++ $^ -o $@
 
 main.o: main.cpp
@@ -17,6 +17,13 @@ bubble.o: bubble.cpp
 
 shell.o: shellsort.cpp
 	g++ -c $^ -o $@
+
+fullrandom.o: FullRandom.cpp
+	g++ -c $^ -o $@
+
+nearlysorted.o: NearlySorted.cpp
+	g++ -c $^ -o $@
+
 
 clean:
 	rm -f *.o a.out

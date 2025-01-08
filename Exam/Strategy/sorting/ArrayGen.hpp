@@ -4,8 +4,8 @@
 
 class ArrayGen {
 public:
-	ArrayGen();
-	std::vector<int> generate(int x, int seed);
+	explicit ArrayGen();
+	virtual std::vector<int> generate(int x, int seed) = 0;
 	void printVector(std::vector<int> arr);
 };
 

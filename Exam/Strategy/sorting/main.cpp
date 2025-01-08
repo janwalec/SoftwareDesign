@@ -1,8 +1,11 @@
 #include <iostream>
 #include "ArrayGen.hpp"
+#include "FullRandom.hpp"
 #include "ISort.hpp"
 #include "bubble.hpp"
 #include "shellsort.hpp"
+#include "NearlySorted.hpp"
+
 
 using namespace std;
 
@@ -22,7 +25,7 @@ bool isSorted(vector<int> a) {
 
 using namespace std;
 int main(void) {
-	ArrayGen* a = new ArrayGen();
+	ArrayGen* a = new NearlySorted();
 	vector arr = a->generate(10, 100);
 	ISort* sorter1 = new BubbleSort();
 	ISort* sorter2 = new ShellSort();
